@@ -1,0 +1,16 @@
+.child{
+    border: 3px solid red;
+    padding: 20px;
+    margin: 10px;
+}
+
+.parent{
+    border: 3px solid blue;
+    padding: 20px;
+    margin: 10px;
+}
+
+.console{
+    border: 3px solid green;
+    padding: 20px;
+}
